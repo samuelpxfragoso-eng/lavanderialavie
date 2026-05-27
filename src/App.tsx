@@ -415,7 +415,7 @@ const SixtyMinSection = () => {
                 Ver Unidade
               </a>
               <a 
-                href="https://lavanderialavieselfservice.com.br"
+                href="https://la-vie-self-service.vercel.app/"
                 target="_blank"
                 className="bg-lavie-gold text-lavie-navy px-10 py-4 rounded-full font-black uppercase text-[10px] tracking-widest hover:brightness-110 text-center transition-all shadow-xl shadow-lavie-gold/20 flex items-center justify-center gap-2"
               >
