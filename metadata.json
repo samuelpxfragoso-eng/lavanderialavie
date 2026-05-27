@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Lavanderia La Vie 2.0",
+  "description": "Laundromat Premium em São Paulo. Autoatendimento assistido com tecnologia e cuidado especializado para suas roupas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
